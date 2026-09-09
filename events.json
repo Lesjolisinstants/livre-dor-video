@@ -4,14 +4,14 @@
     "date": "4 juillet 2026",
     "subtitle": "Laissez-leur un message vidéo qu'ils chériront pour toujours 🤍",
     "password": "melanie2026",
-    "expiry": "2026-07-06"
+    "expiry": "2026-07-12"
   },
   "leonie": {
     "names": "Baptême de Léonie",
     "date": "1 août 2026",
     "subtitle": "Laissez-lui un message vidéo qu'elle conservera toute sa vie 🤍",
     "password": "leonie2026",
-    "expiry": "2026-08-03"
+    "expiry": "2026-08-25"
   },
   "salon": {
     "names": "Salon des familles",
@@ -19,5 +19,4 @@
     "subtitle": "Laissez-nous un petit message en vidéo 🎥",
     "password": "tracy2026",
     "expiry": "2026-09-25"
-  }
 }
